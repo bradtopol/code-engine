@@ -161,7 +161,7 @@ func main() {
 		if target == "" {
 			target = "World"
 		}
-		msg = "Brad Topol Hello " + target + " from"
+		msg = "Brad Byer Topol Hello " + target + " from"
 	}
 
 	// Get the list of env vars, and sort them for easy reading
